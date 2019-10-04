@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Hello Luna Pen',
+  title: '奇妙画笔',
   base: '/lunapen/',
-  description: 'Just playing around'
+  description: '奇妙画笔主页'
 }

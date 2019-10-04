@@ -1,7 +1,3 @@
-# Hello Luna Pen
+# 奇妙画笔
 
-## test Netlify failue
-
-### 积分
-
-## 积分
+## 目录
