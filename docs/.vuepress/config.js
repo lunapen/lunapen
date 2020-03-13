@@ -1,5 +1,5 @@
 module.exports = {
   title: '奇妙画笔',
-  base: '/lunapen/',
+  base: '/docs/',
   description: '奇妙画笔主页'
 }
