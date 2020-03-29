@@ -1,6 +1,8 @@
 language: node_js
 node_js:
   - lts/*
+install:
+  - npm add -D vuepress
 script:
   - npm run docs:build
 deploy:
